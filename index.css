@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    justify-content:
+     space-between;
+     padding: 0;
+     align-items: center;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    margin: 80px;
+    align-items: center;
+}
+.lista{
+    display: flex;
+    align-items: center;
+    padding: 15px;
+}
+.lista li a{
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.barra{
+    color: white;
+    padding: 15px;
+
+}
+
+.lista li a:hover{
+    color: #2ECC71 ;
+}
+.medio{
+
+    background-color: #0b68fa ;
+    color: white;
+    width: 100%;
+    height: 370px;
+    padding-left: 70px;
+    
+}
+    
+.TC{
+    color: white;
+}
+
+.OPGM{
+    font-size: 40px;
+    padding: 70px;
+    font-weight: 900;
+}
+
+.link{
+    font-size: 10px;
+    padding-top: 30px;
+    
+}
+
+.bp{
+    text-align: center;
+    margin: 50px;
+    font-size: 35px;
+
+}
+div.centrar{ 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+
+}
+
+div.centrar h3,h6{
+    text-align: center;
+}
+div.contenedor1{
+    text-align: center;
+    padding:  50px;
+    
+}
+div.epp{
+    background-color: #E7E7E7;
+    text-align: center;
+    padding: 75px 15px;
+}
+
+div.epp h6{
+    font-size: 16px;
+    margin: 10px;
+}
+
+div.epp img{
+    margin: 16px;
+}
+
+
+.card-group h6{
+    background-color: rgb(13, 114, 234);
+    border-radius: 4px;
+    color: white;
+    padding: 4px;
+    font-size: 12px;
+}
+h6.ReB{
+    background-color: white;
+    color: rgb(13, 114, 234);
+    border: 1px solid rgb(13, 114, 234);
+    padding: 8px 4px;
+    font-size: 12px;
+}
+
+
+
+
+.tc{
+    background-color: rgb(13, 114, 234);
+    border-radius: 4px;
+    color: white;
+    padding: 4px;
+    font-size: 12px;
+    margin: 10px;
+}
+
+
+
+div.pie2{
+    background-color: black;
+    display: flex;
+   text-align: center;
+    padding: 50px;
+   
+}
+.btn btn-dark btn-lg{
+    width: 100%;
+}
+.card{
+    width: 280px;
+}
+
+
+div.pie2 thead{
+    color: #A2A2A2;
+    margin-inline-start: 40px;
+    padding: 15px;
+    margin: 50px;
+    
+}
+.text-muted a{
+    font-size: 12px;
+    color: #A2A2A2;
+    margin-top: 12px;
+}
+div.pie2 tbody a{
+    color: white;
+    text-decoration: none;
+    display: flex;
+    padding: 15px;
+}
+div.pie2 tbody a:hover{
+    color: #2ECC71 ;
+
+}
+hr{
+    border-width: 1px;
+    border-color: rgb(204, 204, 204);
+}
+
+
+.card-padre{
+    width: 100%;
+    display: flex;
+    padding: 25px;
+    align-items: center;
+
+}
+
+
+    
+
